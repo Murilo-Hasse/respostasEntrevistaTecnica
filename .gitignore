@@ -1,0 +1,4 @@
+#Ignorar configurações do editor de texto
+.vscode
+#Ignorar a pasta com arquivo executaveis
+output
