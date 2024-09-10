@@ -36,5 +36,3 @@ build/
 
 ### Mac OS ###
 .DS_Store
-#Ignorar a pasta com arquivo executaveis
-output
